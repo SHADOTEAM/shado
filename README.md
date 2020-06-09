@@ -20,7 +20,7 @@
 # <p align="center" style="color:#cb3349" > 💬┊للمشاكل والاسفسار والاقتراحات :
 
 
-  # <p align="center" style="color:#cb3349" > (https://telegram.me/teamshado) <br>
+  # <p align="center" style="color:#cb3349" > (https://telegram.me/ShadoTeam) <br>
 
 
 # <p align="center" style="color:#cb3349" > [قــنــاة الــســورس](https://telegram.me/ShadoTeam) <br>
